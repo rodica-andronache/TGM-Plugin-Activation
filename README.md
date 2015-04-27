@@ -1,9 +1,10 @@
 # TGM Plugin Activation
 
-**Contributors:** Thomas Griffin (@jthomasgriffin / thomasgriffinmedia.com), Gary Jones (Github: @GaryJones / Twitter: GaryJ)  
-**Version:** 2.4.1  
+**Lead Developers:**
+[Thomas Griffin](https://github.com/thomasgriffin) ([@jthomasgriffin](https://twitter.com/jrf_nl)), [Gary Jones](https://github.com/GaryJones) ([@GaryJ](https://twitter.com/GaryJ)), [Juliette Reinders Folmer](https://github.com/jrfnl) ([@jrf_nl](https://twitter.com/jrf_nl))  
+**Version:** 2.5.0-alpha  
 **Requires at least:** 3.7.0  
-**Tested up to:** 4.2  
+**Tested up to:** 4.2.0  
 
 ## Description
 
@@ -32,8 +33,12 @@ and amend to suit. The `example.php` file is a model for how you should include 
 
 See https://github.com/thomasgriffin/TGM-Plugin-Activation/issues for current issues and for reporting bugs and enhancements.
 
-Note that the authors of TGM Plugin Activation library are not responsible for the end-user support for any plugin or theme which uses the library.
+__Note:__ TGM Plugin Activation library authors are not responsible for the *end-user support* for any plugin or theme which uses the library.
 
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md).
+
+## Contributing to TGM Plugin Activation
+
+If you have a patch, or stumbled upon an issue with TGM Plugin Activation core, you can contribute this back to the code. Please read our [contributor guidelines](CONTRIBUTING.md) for more information how you can do this.
